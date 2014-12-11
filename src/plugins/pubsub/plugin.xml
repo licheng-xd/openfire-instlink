@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+   <class>com.instlink.openfire.pubsub.plugin.PubsubPlugin</class>
+   <name>PubsubPlugin</name>
+   <description>This is the plugin for pubsub.</description>
+   <author>LC</author>
+   <version>1.0.0</version>
+   <date>16/12/2011</date>
+   <minServerVersion>3.7.0</minServerVersion>
+   <databaseKey>pubsub</databaseKey>
+   <databaseVersion>0</databaseVersion>
+	<adminconsole>  
+        <!-- More on this below -->  
+    </adminconsole>  
+</plugin>
